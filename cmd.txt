@@ -1,0 +1,39 @@
+    1  pwd
+    2  ls
+    3  cd De
+    4  cd Desktop/
+    5  ls
+    6  cd MonProjet
+    7  ls
+    8  git init
+    9  git add Readme.md
+   10  git commit -m
+   11  git commit -m "first commit"
+   12  git config --global user.email "mn-buisson@fr.ibm.com"
+   13  git config --global user.name "MNB"
+   14  git remote add origin https://github.com/MNBUISSON/Monprojet.git
+   15  git push -u origin master
+   16* 
+   17  git config --global user.name "MNBUISSON"
+   18  git push -u origin master
+   19  git commit -m "first commit"
+   20  git push -u origin master
+   21  history
+   22  ls -a
+   23  cd..
+   24  cd Desktop
+   25  cd ..
+   26  cd TP2
+   27  cd TP2
+   28  git clone https://github.com/MNBUISSON/Monprojet.git
+   29  ls
+   30  history
+   31  echo
+   32  ls
+   33  cd Monprojet
+   34  ls
+   35  git add MarieNoelle.txt 
+   36  git commit -m "second commit"
+   37  git push -u origin master
+   38  history
+   39  history > cmd.txt
